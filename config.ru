@@ -1,5 +1,5 @@
 $LOAD_PATH << File.dirname(__FILE__)
 
-require "app"
+require "synonymy"
 run Sinatra::Application
 
