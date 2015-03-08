@@ -1,5 +1,5 @@
-Synonym
-=======
+Synonymy
+========
 
 A basic sinatra application
 
