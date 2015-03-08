@@ -6,7 +6,7 @@ require "rdiscount"
 set :markdown, :layout_engine => :erb
 
 get "/" do
-  markdown :index
+  erb :index
 end
 
 get "/j2_k2" do
